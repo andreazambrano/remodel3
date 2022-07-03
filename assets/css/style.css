@@ -65,7 +65,7 @@ button {
     padding: 0;
 }
 h1, h2, h3, h4, h5, h6 {
-    color: var(--thm-black);
+    color: #46d4a5;
     font-weight: 700;
     line-height: 1.25em;
     font-family: var(--thm-font-2);
@@ -1577,7 +1577,7 @@ select:focus {
 .single-features-style1 .icon {
     position: relative;
     display: block;
-    line-height: 0;
+    line-height: 3;
     z-index: 1;
 }
 .single-features-style1 .icon span::before{
